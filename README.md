@@ -42,6 +42,12 @@ The analysis focuses on understanding disclosed funding amounts, investment patt
 | Median Disclosed Deal Size | $1.73 million |
 | Total Dataset Records | 3,044 |
 
+
+## 📊 Dashboard Preview
+
+![India Startup Investment Intelligence Dashboard](Screenshots/YOUR-EXACT-FILENAME.png)
+
+
 ## 🔍 Business Analysis
 
 ### 1. Funding Trends
