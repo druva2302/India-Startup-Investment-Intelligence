@@ -1,0 +1,17 @@
+import pandas as pd
+
+# Load the raw startup funding dataset
+df = pd.read_csv("../Data/raw/startup_funding.csv")
+
+print("DATASET LOADED SUCCESSFULLY")
+print("=" * 50)
+
+# Number of rows and columns
+print("Rows and Columns:")
+print(df.shape)
+
+print("\nColumn Names:")
+print(df.columns.tolist())
+
+print("\nFirst 5 Rows:")
+print(df.head())
